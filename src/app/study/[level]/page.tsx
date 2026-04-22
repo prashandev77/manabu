@@ -39,7 +39,7 @@ function FlipCard({
   return (
     <div
       className="flip-container mx-auto w-full max-w-sm cursor-pointer select-none"
-      style={{ height: "clamp(280px, 55vw, 380px)" }}
+      style={{ height: "clamp(340px, 60vw, 400px)" }}
       onClick={onFlip}
       role="button"
       tabIndex={0}
@@ -49,8 +49,8 @@ function FlipCard({
       <div className={`flip-inner h-full w-full ${isFlipped ? "is-flipped" : ""}`}>
 
         {/* FRONT – Kanji character */}
-        <div className="flip-face flex flex-col items-center justify-center rounded-3xl border border-slate-200 bg-white shadow-lg shadow-slate-200/60">
-          <div className="absolute inset-0 rounded-3xl bg-gradient-to-br from-slate-50/80 to-white" />
+        <div className="flip-face flex flex-col items-center justify-center border border-slate-200 bg-white shadow-lg shadow-slate-200/60">
+          <div className="absolute inset-0 bg-gradient-to-br from-slate-50/80 to-white" />
           <div className="relative z-10 flex flex-col items-center px-6">
             <span
               className="font-bold leading-none text-slate-800"
@@ -65,46 +65,43 @@ function FlipCard({
         </div>
 
         {/* BACK – Meaning + readings */}
-        <div className="flip-face flip-face-back flex flex-col items-center justify-center rounded-3xl border border-slate-200 bg-white shadow-lg shadow-slate-200/60">
-          <div className="absolute inset-0 rounded-3xl bg-gradient-to-br from-indigo-50/40 to-violet-50/30" />
-          <div className="relative z-10 flex w-full flex-col items-center justify-center gap-3 px-5 py-4 sm:gap-4 sm:px-6">
+        <div className="flip-face flip-face-back flex flex-col items-center border border-slate-200 bg-white shadow-lg shadow-slate-200/60">
+          <div className="absolute inset-0 bg-gradient-to-br from-indigo-50/40 to-violet-50/30 pointer-events-none" />
 
-            {/* Small kanji label for context */}
-            <span className="text-3xl font-bold text-slate-300 sm:text-4xl">
-              {kanji.kanji}
-            </span>
+          <div className="relative z-10 flex h-full w-full flex-col items-center justify-center px-5 py-5">
 
-            {/* Meaning – the hero of this side */}
-            <div className={`w-full max-w-[280px] rounded-2xl border px-4 py-3 text-center sm:px-5 sm:py-4 ${accent.badge}`}>
-              <p className="text-[10px] font-bold uppercase tracking-widest text-slate-400 mb-1">Meaning</p>
-              <p className="text-lg font-extrabold sm:text-xl">
+            {/* Kanji (small, faded) */}
+            <p className="mb-1 text-2xl font-bold text-slate-200">{kanji.kanji}</p>
+
+            {/* Meaning */}
+            <div className={`w-full max-w-[280px] rounded-2xl border px-4 py-2.5 text-center ${accent.badge}`}>
+              <p className="text-[9px] font-bold uppercase tracking-widest text-slate-400 mb-0.5">Meaning</p>
+              <p className="text-base font-extrabold sm:text-lg leading-snug">
                 {kanji.translations[language]}
               </p>
             </div>
 
-            {/* Readings */}
-            <div className="grid w-full max-w-[280px] grid-cols-2 gap-2">
-              {[
-                { label: "Onyomi",  val: kanji.onyomi  },
-                { label: "Kunyomi", val: kanji.kunyomi },
-              ].map((r) => (
-                <div key={r.label} className="rounded-xl border border-slate-100 bg-slate-50 p-2.5 text-center">
-                  <p className="mb-0.5 text-[9px] font-bold uppercase tracking-widest text-slate-400">{r.label}</p>
-                  <p className="text-xs font-semibold text-slate-700">{r.val || "—"}</p>
-                </div>
-              ))}
+            {/* Readings row */}
+            <div className="mt-3 grid w-full max-w-[280px] grid-cols-2 gap-2">
+              <div className="rounded-xl border border-slate-100 bg-slate-50 px-2 py-2 text-center">
+                <p className="text-[8px] font-bold uppercase tracking-widest text-slate-400">On</p>
+                <p className="mt-0.5 text-xs font-semibold text-slate-700">{kanji.onyomi || "—"}</p>
+              </div>
+              <div className="rounded-xl border border-slate-100 bg-slate-50 px-2 py-2 text-center">
+                <p className="text-[8px] font-bold uppercase tracking-widest text-slate-400">Kun</p>
+                <p className="mt-0.5 text-xs font-semibold text-slate-700">{kanji.kunyomi || "—"}</p>
+              </div>
             </div>
 
             {/* Romaji */}
             {kanji.romaji && kanji.romaji !== "romaji" && (
-              <p className="text-[11px] text-slate-400">
+              <p className="mt-2 text-[11px] text-slate-400">
                 Romaji: <span className="font-medium text-slate-500">{kanji.romaji}</span>
               </p>
             )}
 
-            <div className="flex items-center gap-1.5 rounded-full bg-slate-100 px-3 py-1 sm:py-1.5">
-              <span className="text-[10px] text-slate-400 sm:text-xs">Tap to flip back</span>
-            </div>
+            {/* Hint */}
+            <p className="mt-3 text-[10px] text-slate-400">Tap to flip back</p>
           </div>
         </div>
       </div>

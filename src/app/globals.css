@@ -78,9 +78,13 @@
   -webkit-backface-visibility: hidden;
   position: absolute;
   inset: 0;
+  overflow: hidden;
+  border-radius: 1.5rem;
 }
 .flip-face-back {
   transform: rotateY(180deg);
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 /* ── Animations ───────────────────────────────── */
