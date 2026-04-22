@@ -35,8 +35,8 @@ export default function Home() {
 
       <main className="flex-1">
 
-        {/* ── Hero ───────────────────────────────────── */}
-        <section className="relative overflow-hidden bg-white border-b border-slate-100">
+        {/* ── Hero (full screen) ──────────────────────── */}
+        <section className="relative flex items-center justify-center overflow-hidden bg-white border-b border-slate-100" style={{ minHeight: "calc(100dvh - 3.5rem)" }}>
           {/* Soft blobs */}
           <div className="pointer-events-none absolute inset-0 overflow-hidden">
             <div className="absolute -top-32 -right-32 h-80 w-80 rounded-full bg-indigo-100/60 blur-[80px]" />
@@ -44,7 +44,7 @@ export default function Home() {
             <div className="absolute top-1/2 left-1/2 h-48 w-48 -translate-x-1/2 -translate-y-1/2 rounded-full bg-sky-100/40 blur-[70px]" />
           </div>
 
-          <div className="relative mx-auto max-w-5xl px-4 py-14 sm:py-20 sm:px-6">
+          <div className="relative mx-auto max-w-5xl px-4 py-14 sm:px-6 sm:py-20">
             <div className="flex flex-col items-center text-center">
               {/* Logo */}
               <div className="animate-fade-in-up mb-6 relative h-20 w-20 sm:h-24 sm:w-24 drop-shadow-md">
@@ -80,6 +80,14 @@ export default function Home() {
                     {p.label}
                   </span>
                 ))}
+              </div>
+
+              {/* Scroll indicator */}
+              <div className="animate-fade-in-up delay-300 mt-12 flex flex-col items-center gap-1">
+                <span className="text-[10px] font-medium uppercase tracking-widest text-slate-400">Scroll to explore</span>
+                <div className="h-8 w-5 rounded-full border-2 border-slate-300 p-0.5">
+                  <div className="mx-auto h-2 w-1 animate-bounce rounded-full bg-slate-400" />
+                </div>
               </div>
             </div>
           </div>
