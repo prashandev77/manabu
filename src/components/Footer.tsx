@@ -8,7 +8,7 @@ export default function Footer() {
       <div className="mx-auto flex max-w-5xl flex-col items-center gap-4 px-4 py-8 sm:flex-row sm:justify-between sm:px-6">
         {/* Brand */}
         <Link href="/" className="flex items-center gap-2 group">
-          <div className="relative h-6 w-6 overflow-hidden rounded-md">
+          <div className="relative h-6 w-6">
             <Image src="/manabu_logo.png" alt="Manabu" fill sizes="24px" className="object-contain" />
           </div>
           <span className="text-sm font-semibold text-slate-700 group-hover:text-indigo-600 transition-colors">

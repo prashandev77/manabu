@@ -30,11 +30,12 @@ export default function Header() {
 
         {/* Logo + Brand */}
         <Link href="/" className="flex items-center gap-2.5 group">
-          <div className="relative h-8 w-8 shrink-0 overflow-hidden rounded-lg shadow-sm transition-transform duration-300 group-hover:scale-110">
+          <div className="relative h-8 w-8 shrink-0 transition-transform duration-300 group-hover:scale-110">
             <Image
               src="/manabu_logo.png"
               alt="Manabu"
               fill
+              sizes="32px"
               className="object-contain"
               priority
             />
