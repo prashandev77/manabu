@@ -141,7 +141,7 @@ export default function StudyPage({
   /* Empty level */
   if (displayList.length === 0) {
     return (
-      <div className="flex min-h-screen flex-col bg-[#f8f9fc]">
+      <div className="flex min-h-screen flex-col bg-[#f8f9fc] pt-14">
         <Header />
         <main className="flex flex-1 items-center justify-center p-8 text-center">
           <div>
@@ -175,7 +175,7 @@ export default function StudyPage({
   };
 
   return (
-    <div className="flex min-h-screen flex-col bg-[#f8f9fc]">
+    <div className="flex min-h-screen flex-col bg-[#f8f9fc] pt-14">
       <Header />
 
       {/* ── Top navigation bar ─── */}

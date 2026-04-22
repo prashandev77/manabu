@@ -33,7 +33,7 @@ export default function Home() {
     <div className="flex min-h-screen flex-col bg-[#f8f9fc]">
       <Header />
 
-      <main className="flex-1">
+      <main className="flex-1 pt-14">
 
         {/* ── Hero (full screen) ──────────────────────── */}
         <section className="hero-section relative flex items-center justify-center overflow-hidden bg-white border-b border-slate-100" style={{ minHeight: "calc(100dvh - 3.5rem)" }}>
@@ -132,7 +132,7 @@ export default function Home() {
         </section>
 
         {/* ── Level Dashboard ─────────────────────────── */}
-        <section className="mx-auto max-w-5xl px-4 py-10 sm:px-6 sm:py-14">
+        <section id="levels" className="mx-auto max-w-5xl px-4 py-10 sm:px-6 sm:py-14 scroll-mt-14">
           <div className="mb-6">
             <h2 className="text-xl font-bold text-slate-800 sm:text-2xl">Choose Your Level</h2>
             <p className="mt-1 text-sm text-slate-500">Tap a card to start studying</p>
