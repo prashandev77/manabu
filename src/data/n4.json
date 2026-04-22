@@ -1,0 +1,2852 @@
+[
+  {
+    "id": "n4-001",
+    "kanji": "不",
+    "onyomi": "フ",
+    "kunyomi": "",
+    "romaji": "fu",
+    "translations": {
+      "en": "Negative",
+      "si": "නොවන",
+      "ne": "नकारात्मक",
+      "vi": "Không",
+      "hi": "नकारात्मक",
+      "th": "ไม่"
+    }
+  },
+  {
+    "id": "n4-002",
+    "kanji": "世",
+    "onyomi": "セイ, セ",
+    "kunyomi": "よ",
+    "romaji": "sei",
+    "translations": {
+      "en": "World",
+      "si": "ලෝකය",
+      "ne": "संसार",
+      "vi": "Thế giới",
+      "hi": "दुनिया",
+      "th": "โลก"
+    }
+  },
+  {
+    "id": "n4-003",
+    "kanji": "主",
+    "onyomi": "シュ",
+    "kunyomi": "ぬし, おも",
+    "romaji": "shu",
+    "translations": {
+      "en": "Master",
+      "si": "ප්‍රධාන",
+      "ne": "मुख्य",
+      "vi": "Chủ",
+      "hi": "मुख्य",
+      "th": "หลัก"
+    }
+  },
+  {
+    "id": "n4-004",
+    "kanji": "乗",
+    "onyomi": "ジョウ",
+    "kunyomi": "の.る",
+    "romaji": "jou",
+    "translations": {
+      "en": "Ride",
+      "si": "පදින්න",
+      "ne": "चढ्नु",
+      "vi": "Cưỡi",
+      "hi": "सवारी",
+      "th": "ขี่"
+    }
+  },
+  {
+    "id": "n4-005",
+    "kanji": "事",
+    "onyomi": "ジ",
+    "kunyomi": "こと",
+    "romaji": "ji",
+    "translations": {
+      "en": "Matter",
+      "si": "කාරණය",
+      "ne": "कुरा",
+      "vi": "Sự việc",
+      "hi": "बात",
+      "th": "เรื่อง"
+    }
+  },
+  {
+    "id": "n4-006",
+    "kanji": "仕",
+    "onyomi": "シ, ジ",
+    "kunyomi": "つか.える",
+    "romaji": "shi",
+    "translations": {
+      "en": "Serve",
+      "si": "සේවය කරන්න",
+      "ne": "सेवा गर्नु",
+      "vi": "Phục vụ",
+      "hi": "सेवा",
+      "th": "บริการ"
+    }
+  },
+  {
+    "id": "n4-007",
+    "kanji": "代",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "か.わる, よ",
+    "romaji": "dai",
+    "translations": {
+      "en": "Substitute",
+      "si": "පරම්පරාව",
+      "ne": "पुस्ता",
+      "vi": "Đại diện",
+      "hi": "पीढ़ी",
+      "th": "แทน"
+    }
+  },
+  {
+    "id": "n4-008",
+    "kanji": "以",
+    "onyomi": "イ",
+    "kunyomi": "もっ.て",
+    "romaji": "i",
+    "translations": {
+      "en": "By means of",
+      "si": "මගින්",
+      "ne": "द्वारा",
+      "vi": "Bằng",
+      "hi": "से",
+      "th": "โดย"
+    }
+  },
+  {
+    "id": "n4-009",
+    "kanji": "低",
+    "onyomi": "テイ",
+    "kunyomi": "ひく.い",
+    "romaji": "tei",
+    "translations": {
+      "en": "Low",
+      "si": "පහත්",
+      "ne": "कम",
+      "vi": "Thấp",
+      "hi": "कम",
+      "th": "ต่ำ"
+    }
+  },
+  {
+    "id": "n4-010",
+    "kanji": "住",
+    "onyomi": "ジュウ",
+    "kunyomi": "す.む",
+    "romaji": "juu",
+    "translations": {
+      "en": "Dwell",
+      "si": "ජීවත් වෙන්න",
+      "ne": "बस्नु",
+      "vi": "Sống",
+      "hi": "रहना",
+      "th": "อยู่"
+    }
+  },
+  {
+    "id": "n4-011",
+    "kanji": "体",
+    "onyomi": "タイ, テイ",
+    "kunyomi": "からだ",
+    "romaji": "tai",
+    "translations": {
+      "en": "Body",
+      "si": "ශරීරය",
+      "ne": "शरीर",
+      "vi": "Cơ thể",
+      "hi": "शरीर",
+      "th": "ร่างกาย"
+    }
+  },
+  {
+    "id": "n4-012",
+    "kanji": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに, なん",
+    "romaji": "ka",
+    "translations": {
+      "en": "What",
+      "si": "කුමක්ද",
+      "ne": "के",
+      "vi": "Cái gì",
+      "hi": "क्या",
+      "th": "อะไร"
+    }
+  },
+  {
+    "id": "n4-013",
+    "kanji": "作",
+    "onyomi": "サク, サ",
+    "kunyomi": "つく.る",
+    "romaji": "saku",
+    "translations": {
+      "en": "Make",
+      "si": "සෑදීම",
+      "ne": "बनाउनु",
+      "vi": "Làm",
+      "hi": "बनाना",
+      "th": "ทำ"
+    }
+  },
+  {
+    "id": "n4-014",
+    "kanji": "使",
+    "onyomi": "シ",
+    "kunyomi": "つか.う",
+    "romaji": "shi",
+    "translations": {
+      "en": "Use",
+      "si": "භාවිතා කිරීම",
+      "ne": "प्रयोग गर्नु",
+      "vi": "Sử dụng",
+      "hi": "इस्तेमाल",
+      "th": "ใช้"
+    }
+  },
+  {
+    "id": "n4-015",
+    "kanji": "借",
+    "onyomi": "シャク",
+    "kunyomi": "か.りる",
+    "romaji": "shaku",
+    "translations": {
+      "en": "Borrow",
+      "si": "ණයට ගන්න",
+      "ne": "उधार",
+      "vi": "Mượn",
+      "hi": "उधार",
+      "th": "ยืม"
+    }
+  },
+  {
+    "id": "n4-016",
+    "kanji": "元",
+    "onyomi": "ゲン, ガン",
+    "kunyomi": "もと",
+    "romaji": "gen",
+    "translations": {
+      "en": "Origin",
+      "si": "මූලය",
+      "ne": "मूल",
+      "vi": "Nguồn gốc",
+      "hi": "मूल",
+      "th": "ดั้งเดิม"
+    }
+  },
+  {
+    "id": "n4-017",
+    "kanji": "兄",
+    "onyomi": "ケイ, キョウ",
+    "kunyomi": "あに",
+    "romaji": "kei",
+    "translations": {
+      "en": "Older brother",
+      "si": "අයියා",
+      "ne": "दाई",
+      "vi": "Anh trai",
+      "hi": "बड़ा भाई",
+      "th": "พี่ชาย"
+    }
+  },
+  {
+    "id": "n4-018",
+    "kanji": "光",
+    "onyomi": "コウ",
+    "kunyomi": "ひかり, ひか.る",
+    "romaji": "kou",
+    "translations": {
+      "en": "Light",
+      "si": "ආලෝකය",
+      "ne": "प्रकाश",
+      "vi": "Ánh sáng",
+      "hi": "रोशनी",
+      "th": "แสง"
+    }
+  },
+  {
+    "id": "n4-019",
+    "kanji": "写",
+    "onyomi": "シャ",
+    "kunyomi": "うつ.す",
+    "romaji": "sha",
+    "translations": {
+      "en": "Copy",
+      "si": "පිටපත්",
+      "ne": "कपि",
+      "vi": "Sao chép",
+      "hi": "नकल",
+      "th": "คัดลอก"
+    }
+  },
+  {
+    "id": "n4-020",
+    "kanji": "真",
+    "onyomi": "シン",
+    "kunyomi": "ま, まこと",
+    "romaji": "shin",
+    "translations": {
+      "en": "True",
+      "si": "සත්‍ය",
+      "ne": "सत्य",
+      "vi": "Thật",
+      "hi": "सच",
+      "th": "จริง"
+    }
+  },
+  {
+    "id": "n4-021",
+    "kanji": "冬",
+    "onyomi": "トウ",
+    "kunyomi": "ふゆ",
+    "romaji": "tou",
+    "translations": {
+      "en": "Winter",
+      "si": "ශීත ඍතුව",
+      "ne": "जाडो",
+      "vi": "Mùa đông",
+      "hi": "सर्दी",
+      "th": "ฤดูหนาว"
+    }
+  },
+  {
+    "id": "n4-022",
+    "kanji": "切",
+    "onyomi": "セツ, サイ",
+    "kunyomi": "き.る",
+    "romaji": "setsu",
+    "translations": {
+      "en": "Cut",
+      "si": "කැපීම",
+      "ne": "काट्नु",
+      "vi": "Cắt",
+      "hi": "काटना",
+      "th": "ตัด"
+    }
+  },
+  {
+    "id": "n4-023",
+    "kanji": "別",
+    "onyomi": "ベツ",
+    "kunyomi": "わか.れる",
+    "romaji": "betsu",
+    "translations": {
+      "en": "Separate",
+      "si": "වෙනස්",
+      "ne": "फरक",
+      "vi": "Khác",
+      "hi": "अलग",
+      "th": "แยก"
+    }
+  },
+  {
+    "id": "n4-024",
+    "kanji": "力",
+    "onyomi": "リョク, リキ",
+    "kunyomi": "ちから",
+    "romaji": "ryoku",
+    "translations": {
+      "en": "Power",
+      "si": "බලය",
+      "ne": "शक्ति",
+      "vi": "Sức mạnh",
+      "hi": "शक्ति",
+      "th": "พลัง"
+    }
+  },
+  {
+    "id": "n4-025",
+    "kanji": "勉",
+    "onyomi": "ベン",
+    "kunyomi": "つと.める",
+    "romaji": "ben",
+    "translations": {
+      "en": "Exertion",
+      "si": "උත්සාහය",
+      "ne": "प्रयास",
+      "vi": "Cố gắng",
+      "hi": "प्रयास",
+      "th": "พยายาม"
+    }
+  },
+  {
+    "id": "n4-026",
+    "kanji": "動",
+    "onyomi": "ドウ",
+    "kunyomi": "うご.く",
+    "romaji": "dou",
+    "translations": {
+      "en": "Move",
+      "si": "චලනය",
+      "ne": "सर्नु",
+      "vi": "Di chuyển",
+      "hi": "चलना",
+      "th": "ขยับ"
+    }
+  },
+  {
+    "id": "n4-027",
+    "kanji": "区",
+    "onyomi": "ク",
+    "kunyomi": "",
+    "romaji": "ku",
+    "translations": {
+      "en": "Ward/District",
+      "si": "දිස්ත්‍රික්කය",
+      "ne": "जिल्ला",
+      "vi": "Khu",
+      "hi": "ज़िला",
+      "th": "เขต"
+    }
+  },
+  {
+    "id": "n4-028",
+    "kanji": "医",
+    "onyomi": "イ",
+    "kunyomi": "",
+    "romaji": "i",
+    "translations": {
+      "en": "Doctor",
+      "si": "වෛද්‍යවරයා",
+      "ne": "डाक्टर",
+      "vi": "Y/Bác sĩ",
+      "hi": "चिकित्सक",
+      "th": "หมอ"
+    }
+  },
+  {
+    "id": "n4-029",
+    "kanji": "去",
+    "onyomi": "キョ, コ",
+    "kunyomi": "さ.る",
+    "romaji": "kyo",
+    "translations": {
+      "en": "Leave/Past",
+      "si": "අතීතය",
+      "ne": "विगत",
+      "vi": "Qua",
+      "hi": "अतीत",
+      "th": "อดีต"
+    }
+  },
+  {
+    "id": "n4-030",
+    "kanji": "台",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "",
+    "romaji": "dai",
+    "translations": {
+      "en": "Pedestal/Stand",
+      "si": "වේදිකාව",
+      "ne": "स्ट्यान्ड",
+      "vi": "Đài",
+      "hi": "मंच",
+      "th": "แท่น"
+    }
+  },
+  {
+    "id": "n4-031",
+    "kanji": "合",
+    "onyomi": "ゴウ, ガッ, カッ",
+    "kunyomi": "あ.う",
+    "romaji": "gou",
+    "translations": {
+      "en": "Fit/Join",
+      "si": "ගැලපෙන",
+      "ne": "जोड्नु",
+      "vi": "Hợp",
+      "hi": "जोड़ना",
+      "th": "รวม"
+    }
+  },
+  {
+    "id": "n4-032",
+    "kanji": "同",
+    "onyomi": "ドウ",
+    "kunyomi": "おな.じ",
+    "romaji": "dou",
+    "translations": {
+      "en": "Same",
+      "si": "සමාන",
+      "ne": "उस्तै",
+      "vi": "Giống",
+      "hi": "समान",
+      "th": "เหมือน"
+    }
+  },
+  {
+    "id": "n4-033",
+    "kanji": "味",
+    "onyomi": "ミ",
+    "kunyomi": "あじ, あじ.わう",
+    "romaji": "mi",
+    "translations": {
+      "en": "Flavor",
+      "si": "රස",
+      "ne": "स्वाद",
+      "vi": "Vị",
+      "hi": "स्वाद",
+      "th": "รสชาติ"
+    }
+  },
+  {
+    "id": "n4-034",
+    "kanji": "品",
+    "onyomi": "ヒン, ホン",
+    "kunyomi": "しな",
+    "romaji": "hin",
+    "translations": {
+      "en": "Goods",
+      "si": "භාණ්ඩය",
+      "ne": "सामान",
+      "vi": "Hàng hóa",
+      "hi": "सामान",
+      "th": "สินค้า"
+    }
+  },
+  {
+    "id": "n4-035",
+    "kanji": "員",
+    "onyomi": "イン",
+    "kunyomi": "",
+    "romaji": "in",
+    "translations": {
+      "en": "Member",
+      "si": "සාමාජිකයා",
+      "ne": "सदस्य",
+      "vi": "Thành viên",
+      "hi": "सदस्य",
+      "th": "สมาชิก"
+    }
+  },
+  {
+    "id": "n4-036",
+    "kanji": "問",
+    "onyomi": "モン",
+    "kunyomi": "と.う",
+    "romaji": "mon",
+    "translations": {
+      "en": "Question",
+      "si": "ප්‍රශ්නය",
+      "ne": "प्रश्न",
+      "vi": "Hỏi",
+      "hi": "सवाल",
+      "th": "ถาม"
+    }
+  },
+  {
+    "id": "n4-037",
+    "kanji": "図",
+    "onyomi": "ズ, ト",
+    "kunyomi": "はか.る",
+    "romaji": "zu",
+    "translations": {
+      "en": "Map/Drawing",
+      "si": "සිතියම",
+      "ne": "नक्सा",
+      "vi": "Bản đồ",
+      "hi": "नक्शा",
+      "th": "แผนที่"
+    }
+  },
+  {
+    "id": "n4-038",
+    "kanji": "地",
+    "onyomi": "チ, ジ",
+    "kunyomi": "",
+    "romaji": "chi",
+    "translations": {
+      "en": "Ground",
+      "si": "භූමිය",
+      "ne": "जमिन",
+      "vi": "Đất",
+      "hi": "ज़मीन",
+      "th": "ที่ดิน"
+    }
+  },
+  {
+    "id": "n4-039",
+    "kanji": "堂",
+    "onyomi": "ドウ",
+    "kunyomi": "",
+    "romaji": "dou",
+    "translations": {
+      "en": "Hall",
+      "si": "ශාලාව",
+      "ne": "हल",
+      "vi": "Hội trường",
+      "hi": "हॉल",
+      "th": "หอ"
+    }
+  },
+  {
+    "id": "n4-040",
+    "kanji": "場",
+    "onyomi": "ジョウ",
+    "kunyomi": "ば",
+    "romaji": "jou",
+    "translations": {
+      "en": "Place",
+      "si": "ස්ථානය",
+      "ne": "ठाउँ",
+      "vi": "Nơi",
+      "hi": "जगह",
+      "th": "สถานที่"
+    }
+  },
+  {
+    "id": "n4-041",
+    "kanji": "声",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "こえ",
+    "romaji": "sei",
+    "translations": {
+      "en": "Voice",
+      "si": "කටහඬ",
+      "ne": "आवाज",
+      "vi": "Giọng nói",
+      "hi": "आवाज़",
+      "th": "เสียง"
+    }
+  },
+  {
+    "id": "n4-042",
+    "kanji": "売",
+    "onyomi": "バイ",
+    "kunyomi": "う.る",
+    "romaji": "bai",
+    "translations": {
+      "en": "Sell",
+      "si": "විකිණීම",
+      "ne": "बेच्नु",
+      "vi": "Bán",
+      "hi": "बेचना",
+      "th": "ขาย"
+    }
+  },
+  {
+    "id": "n4-043",
+    "kanji": "変",
+    "onyomi": "ヘン",
+    "kunyomi": "か.わる",
+    "romaji": "hen",
+    "translations": {
+      "en": "Change",
+      "si": "වෙනස් වීම",
+      "ne": "परिवर्तन",
+      "vi": "Thay đổi",
+      "hi": "बदलना",
+      "th": "เปลี่ยน"
+    }
+  },
+  {
+    "id": "n4-044",
+    "kanji": "夏",
+    "onyomi": "カ, ゲ",
+    "kunyomi": "なつ",
+    "romaji": "ka",
+    "translations": {
+      "en": "Summer",
+      "si": "ගිම්හානය",
+      "ne": "गर्मी",
+      "vi": "Mùa hè",
+      "hi": "गर्मी",
+      "th": "ฤดูร้อน"
+    }
+  },
+  {
+    "id": "n4-045",
+    "kanji": "夕",
+    "onyomi": "セキ",
+    "kunyomi": "ゆう",
+    "romaji": "seki",
+    "translations": {
+      "en": "Evening",
+      "si": "සවස",
+      "ne": "साँझ",
+      "vi": "Chiều tối",
+      "hi": "शाम",
+      "th": "เย็น"
+    }
+  },
+  {
+    "id": "n4-046",
+    "kanji": "多",
+    "onyomi": "タ",
+    "kunyomi": "おお.い",
+    "romaji": "ta",
+    "translations": {
+      "en": "Many",
+      "si": "බොහෝ",
+      "ne": "धेरै",
+      "vi": "Nhiều",
+      "hi": "बहुत",
+      "th": "มาก"
+    }
+  },
+  {
+    "id": "n4-047",
+    "kanji": "夜",
+    "onyomi": "ヤ",
+    "kunyomi": "よる, よ",
+    "romaji": "ya",
+    "translations": {
+      "en": "Night",
+      "si": "රාත්‍රිය",
+      "ne": "राति",
+      "vi": "Đêm",
+      "hi": "रात",
+      "th": "กลางคืน"
+    }
+  },
+  {
+    "id": "n4-048",
+    "kanji": "太",
+    "onyomi": "タイ, タ",
+    "kunyomi": "ふと.い",
+    "romaji": "tai",
+    "translations": {
+      "en": "Fat/Thick",
+      "si": "තරබාරු",
+      "ne": "मोटो",
+      "vi": "Mập/Thái",
+      "hi": "मोटा",
+      "th": "อ้วน"
+    }
+  },
+  {
+    "id": "n4-049",
+    "kanji": "好",
+    "onyomi": "コウ",
+    "kunyomi": "この.む, す.く",
+    "romaji": "kou",
+    "translations": {
+      "en": "Like",
+      "si": "කැමති",
+      "ne": "मनपर्छ",
+      "vi": "Thích",
+      "hi": "पसंद",
+      "th": "ชอบ"
+    }
+  },
+  {
+    "id": "n4-050",
+    "kanji": "姉",
+    "onyomi": "シ",
+    "kunyomi": "あね",
+    "romaji": "shi",
+    "translations": {
+      "en": "Older sister",
+      "si": "අක්කා",
+      "ne": "दिदी",
+      "vi": "Chị gái",
+      "hi": "बड़ी बहन",
+      "th": "พี่สาว"
+    }
+  },
+  {
+    "id": "n4-051",
+    "kanji": "妹",
+    "onyomi": "マイ",
+    "kunyomi": "いもうと",
+    "romaji": "mai",
+    "translations": {
+      "en": "Younger sister",
+      "si": "නංගි",
+      "ne": "बहिनी",
+      "vi": "Em gái",
+      "hi": "छोटी बहन",
+      "th": "น้องสาว"
+    }
+  },
+  {
+    "id": "n4-052",
+    "kanji": "始",
+    "onyomi": "シ",
+    "kunyomi": "はじ.める",
+    "romaji": "shi",
+    "translations": {
+      "en": "Begin",
+      "si": "ආරම්භය",
+      "ne": "सुरु",
+      "vi": "Bắt đầu",
+      "hi": "शुरू",
+      "th": "เริ่ม"
+    }
+  },
+  {
+    "id": "n4-053",
+    "kanji": "字",
+    "onyomi": "ジ",
+    "kunyomi": "あざ",
+    "romaji": "ji",
+    "translations": {
+      "en": "Character/Letter",
+      "si": "අකුර",
+      "ne": "अक्षर",
+      "vi": "Chữ",
+      "hi": "अक्षर",
+      "th": "ตัวอักษร"
+    }
+  },
+  {
+    "id": "n4-054",
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな.ぶ",
+    "romaji": "gaku",
+    "translations": {
+      "en": "Study",
+      "si": "අධ්‍යයනය",
+      "ne": "अध्ययन",
+      "vi": "Học",
+      "hi": "अध्ययन",
+      "th": "เรียน"
+    }
+  },
+  {
+    "id": "n4-055",
+    "kanji": "安",
+    "onyomi": "アン",
+    "kunyomi": "やす.い",
+    "romaji": "an",
+    "translations": {
+      "en": "Cheap/Safe",
+      "si": "ලාභ/ආරක්ෂිත",
+      "ne": "सस्तो",
+      "vi": "Rẻ",
+      "hi": "सस्ता",
+      "th": "ถูก"
+    }
+  },
+  {
+    "id": "n4-056",
+    "kanji": "室",
+    "onyomi": "シツ",
+    "kunyomi": "むろ",
+    "romaji": "shitsu",
+    "translations": {
+      "en": "Room",
+      "si": "කාමරය",
+      "ne": "कोठा",
+      "vi": "Phòng",
+      "hi": "कमरा",
+      "th": "ห้อง"
+    }
+  },
+  {
+    "id": "n4-057",
+    "kanji": "家",
+    "onyomi": "カ, ケ",
+    "kunyomi": "いえ, や",
+    "romaji": "ka",
+    "translations": {
+      "en": "House",
+      "si": "නිවස",
+      "ne": "घर",
+      "vi": "Nhà",
+      "hi": "घर",
+      "th": "บ้าน"
+    }
+  },
+  {
+    "id": "n4-058",
+    "kanji": "寒",
+    "onyomi": "カン",
+    "kunyomi": "さむ.い",
+    "romaji": "kan",
+    "translations": {
+      "en": "Cold",
+      "si": "සීතල",
+      "ne": "चिसो",
+      "vi": "Lạnh",
+      "hi": "ठंड",
+      "th": "หนาว"
+    }
+  },
+  {
+    "id": "n4-059",
+    "kanji": "屋",
+    "onyomi": "オク",
+    "kunyomi": "や",
+    "romaji": "oku",
+    "translations": {
+      "en": "Roof/Shop",
+      "si": "වහළය/කඩය",
+      "ne": "पसल",
+      "vi": "Mái nhà",
+      "hi": "छत/दुकान",
+      "th": "หลังคา"
+    }
+  },
+  {
+    "id": "n4-060",
+    "kanji": "工",
+    "onyomi": "コウ, ク",
+    "kunyomi": "",
+    "romaji": "kou",
+    "translations": {
+      "en": "Craft/Skill",
+      "si": "ශිල්පය",
+      "ne": "शिल्प",
+      "vi": "Công",
+      "hi": "शिल्प",
+      "th": "ช่าง"
+    }
+  },
+  {
+    "id": "n4-061",
+    "kanji": "左",
+    "onyomi": "サ, シャ",
+    "kunyomi": "ひだり",
+    "romaji": "sa",
+    "translations": {
+      "en": "Left",
+      "si": "වම්",
+      "ne": "बायाँ",
+      "vi": "Trái",
+      "hi": "बाएं",
+      "th": "ซ้าย"
+    }
+  },
+  {
+    "id": "n4-062",
+    "kanji": "右",
+    "onyomi": "ウ, ユウ",
+    "kunyomi": "みぎ",
+    "romaji": "u",
+    "translations": {
+      "en": "Right",
+      "si": "දකුණු",
+      "ne": "दायाँ",
+      "vi": "Phải",
+      "hi": "दाएं",
+      "th": "ขวา"
+    }
+  },
+  {
+    "id": "n4-063",
+    "kanji": "市",
+    "onyomi": "シ",
+    "kunyomi": "いち",
+    "romaji": "shi",
+    "translations": {
+      "en": "City/Market",
+      "si": "නගරය",
+      "ne": "सहर",
+      "vi": "Thành phố",
+      "hi": "शहर",
+      "th": "เมือง"
+    }
+  },
+  {
+    "id": "n4-064",
+    "kanji": "布",
+    "onyomi": "フ",
+    "kunyomi": "ぬの",
+    "romaji": "fu",
+    "translations": {
+      "en": "Cloth",
+      "si": "රෙදි",
+      "ne": "कपडा",
+      "vi": "Vải",
+      "hi": "कपड़ा",
+      "th": "ผ้า"
+    }
+  },
+  {
+    "id": "n4-065",
+    "kanji": "平",
+    "onyomi": "ヘイ, ビョウ",
+    "kunyomi": "たい.ら, ひら",
+    "romaji": "hei",
+    "translations": {
+      "en": "Flat/Peace",
+      "si": "පැතලි",
+      "ne": "समतल",
+      "vi": "Bằng phẳng",
+      "hi": "समतल",
+      "th": "แบน"
+    }
+  },
+  {
+    "id": "n4-066",
+    "kanji": "広",
+    "onyomi": "コウ",
+    "kunyomi": "ひろ.い",
+    "romaji": "kou",
+    "translations": {
+      "en": "Wide",
+      "si": "පුළුල්",
+      "ne": "फराकिलो",
+      "vi": "Rộng",
+      "hi": "चौड़ा",
+      "th": "กว้าง"
+    }
+  },
+  {
+    "id": "n4-067",
+    "kanji": "度",
+    "onyomi": "ド, ト, タク",
+    "kunyomi": "たび",
+    "romaji": "do",
+    "translations": {
+      "en": "Degree/Time",
+      "si": "අංශක",
+      "ne": "डिग्री",
+      "vi": "Độ",
+      "hi": "डिग्री",
+      "th": "องศา"
+    }
+  },
+  {
+    "id": "n4-068",
+    "kanji": "建",
+    "onyomi": "ケン, コン",
+    "kunyomi": "た.てる",
+    "romaji": "ken",
+    "translations": {
+      "en": "Build",
+      "si": "ගොඩනැගීම",
+      "ne": "निर्माण",
+      "vi": "Xây dựng",
+      "hi": "निर्माण",
+      "th": "สร้าง"
+    }
+  },
+  {
+    "id": "n4-069",
+    "kanji": "引",
+    "onyomi": "イン",
+    "kunyomi": "ひ.く",
+    "romaji": "in",
+    "translations": {
+      "en": "Pull",
+      "si": "අදින්න",
+      "ne": "तान्नु",
+      "vi": "Kéo",
+      "hi": "खींचना",
+      "th": "ดึง"
+    }
+  },
+  {
+    "id": "n4-070",
+    "kanji": "強",
+    "onyomi": "キョウ, ゴウ",
+    "kunyomi": "つよ.い",
+    "romaji": "kyou",
+    "translations": {
+      "en": "Strong",
+      "si": "ශක්තිමත්",
+      "ne": "बलियो",
+      "vi": "Mạnh",
+      "hi": "मज़बूत",
+      "th": "แข็งแรง"
+    }
+  },
+  {
+    "id": "n4-071",
+    "kanji": "待",
+    "onyomi": "タイ",
+    "kunyomi": "ま.つ",
+    "romaji": "tai",
+    "translations": {
+      "en": "Wait",
+      "si": "රැඳී සිටීම",
+      "ne": "पर्खनु",
+      "vi": "Đợi",
+      "hi": "इंतज़ार",
+      "th": "รอ"
+    }
+  },
+  {
+    "id": "n4-072",
+    "kanji": "心",
+    "onyomi": "シン",
+    "kunyomi": "こころ",
+    "romaji": "shin",
+    "translations": {
+      "en": "Heart/Mind",
+      "si": "හදවත",
+      "ne": "मुटु",
+      "vi": "Tâm/Trái tim",
+      "hi": "दिल",
+      "th": "ใจ"
+    }
+  },
+  {
+    "id": "n4-073",
+    "kanji": "思",
+    "onyomi": "シ",
+    "kunyomi": "おも.う",
+    "romaji": "shi",
+    "translations": {
+      "en": "Think",
+      "si": "සිතන්න",
+      "ne": "सोच्नु",
+      "vi": "Nghĩ",
+      "hi": "सोचना",
+      "th": "คิด"
+    }
+  },
+  {
+    "id": "n4-074",
+    "kanji": "急",
+    "onyomi": "キュウ",
+    "kunyomi": "いそ.ぐ",
+    "romaji": "kyuu",
+    "translations": {
+      "en": "Hurry",
+      "si": "හදිසිය",
+      "ne": "हतार",
+      "vi": "Gấp",
+      "hi": "जल्दी",
+      "th": "รีบ"
+    }
+  },
+  {
+    "id": "n4-075",
+    "kanji": "悪",
+    "onyomi": "アク, オ",
+    "kunyomi": "わる.い",
+    "romaji": "aku",
+    "translations": {
+      "en": "Bad",
+      "si": "නරක",
+      "ne": "खराब",
+      "vi": "Ác/Xấu",
+      "hi": "खराब",
+      "th": "เลว"
+    }
+  },
+  {
+    "id": "n4-076",
+    "kanji": "館",
+    "onyomi": "カン",
+    "kunyomi": "やかた",
+    "romaji": "kan",
+    "translations": {
+      "en": "Building",
+      "si": "ගොඩනැගිල්ල",
+      "ne": "भवन",
+      "vi": "Quán/Tòa nhà",
+      "hi": "भवन",
+      "th": "อาคาร"
+    }
+  },
+  {
+    "id": "n4-077",
+    "kanji": "意",
+    "onyomi": "イ",
+    "kunyomi": "",
+    "romaji": "i",
+    "translations": {
+      "en": "Idea/Mind",
+      "si": "අදහස",
+      "ne": "विचार",
+      "vi": "Ý",
+      "hi": "विचार",
+      "th": "ความหมาย"
+    }
+  },
+  {
+    "id": "n4-078",
+    "kanji": "所",
+    "onyomi": "ショ",
+    "kunyomi": "ところ",
+    "romaji": "sho",
+    "translations": {
+      "en": "Place",
+      "si": "ස්ථානය",
+      "ne": "ठाउँ",
+      "vi": "Nơi/Chỗ",
+      "hi": "जगह",
+      "th": "สถานที่"
+    }
+  },
+  {
+    "id": "n4-079",
+    "kanji": "持",
+    "onyomi": "ジ",
+    "kunyomi": "も.つ",
+    "romaji": "ji",
+    "translations": {
+      "en": "Hold",
+      "si": "රැගෙන යාම",
+      "ne": "समात्नु",
+      "vi": "Cầm/Giữ",
+      "hi": "पकड़ना",
+      "th": "ถือ"
+    }
+  },
+  {
+    "id": "n4-080",
+    "kanji": "教",
+    "onyomi": "キョウ",
+    "kunyomi": "おし.える",
+    "romaji": "kyou",
+    "translations": {
+      "en": "Teach",
+      "si": "ඉගැන්වීම",
+      "ne": "सिकाउनु",
+      "vi": "Dạy",
+      "hi": "सिखाना",
+      "th": "สอน"
+    }
+  },
+  {
+    "id": "n4-081",
+    "kanji": "文",
+    "onyomi": "ブン, モン",
+    "kunyomi": "ふみ",
+    "romaji": "bun",
+    "translations": {
+      "en": "Writing",
+      "si": "වාක්‍යය",
+      "ne": "वाक्य",
+      "vi": "Văn",
+      "hi": "लेख",
+      "th": "ประโยค"
+    }
+  },
+  {
+    "id": "n4-082",
+    "kanji": "料",
+    "onyomi": "リョウ",
+    "kunyomi": "",
+    "romaji": "ryou",
+    "translations": {
+      "en": "Fee/Materials",
+      "si": "ගාස්තුව",
+      "ne": "शुल्क",
+      "vi": "Phí/Liệu",
+      "hi": "शुल्क",
+      "th": "ค่าธรรมเนียม"
+    }
+  },
+  {
+    "id": "n4-083",
+    "kanji": "旅",
+    "onyomi": "リョ",
+    "kunyomi": "たび",
+    "romaji": "ryo",
+    "translations": {
+      "en": "Travel",
+      "si": "ගමන",
+      "ne": "यात्रा",
+      "vi": "Du lịch",
+      "hi": "यात्रा",
+      "th": "การเดินทาง"
+    }
+  },
+  {
+    "id": "n4-084",
+    "kanji": "族",
+    "onyomi": "ゾク",
+    "kunyomi": "",
+    "romaji": "zoku",
+    "translations": {
+      "en": "Family/Tribe",
+      "si": "පවුල",
+      "ne": "परिवार",
+      "vi": "Tộc",
+      "hi": "परिवार",
+      "th": "เผ่า"
+    }
+  },
+  {
+    "id": "n4-085",
+    "kanji": "早",
+    "onyomi": "ソウ, サッ",
+    "kunyomi": "はや.い",
+    "romaji": "sou",
+    "translations": {
+      "en": "Early/Fast",
+      "si": "ඉක්මන්",
+      "ne": "छिटो",
+      "vi": "Sớm",
+      "hi": "जल्दी",
+      "th": "เร็ว"
+    }
+  },
+  {
+    "id": "n4-086",
+    "kanji": "映",
+    "onyomi": "エイ",
+    "kunyomi": "うつ.る",
+    "romaji": "ei",
+    "translations": {
+      "en": "Reflect",
+      "si": "ප්‍රතිබිම්බය",
+      "ne": "प्रतिबिम्ब",
+      "vi": "Ánh",
+      "hi": "प्रतिबिंबित",
+      "th": "สะท้อน"
+    }
+  },
+  {
+    "id": "n4-087",
+    "kanji": "昼",
+    "onyomi": "チュウ",
+    "kunyomi": "ひる",
+    "romaji": "chuu",
+    "translations": {
+      "en": "Noon/Daytime",
+      "si": "දහවල්",
+      "ne": "दिउँसो",
+      "vi": "Trưa",
+      "hi": "दोपहर",
+      "th": "เที่ยง"
+    }
+  },
+  {
+    "id": "n4-088",
+    "kanji": "暑",
+    "onyomi": "ショ",
+    "kunyomi": "あつ.い",
+    "romaji": "sho",
+    "translations": {
+      "en": "Hot (weather)",
+      "si": "උණුසුම්",
+      "ne": "तातो",
+      "vi": "Nóng",
+      "hi": "गर्म",
+      "th": "ร้อน"
+    }
+  },
+  {
+    "id": "n4-089",
+    "kanji": "暗",
+    "onyomi": "アン",
+    "kunyomi": "くら.い",
+    "romaji": "an",
+    "translations": {
+      "en": "Dark",
+      "si": "අඳුරු",
+      "ne": "अँध्यारो",
+      "vi": "Tối",
+      "hi": "अंधेरा",
+      "th": "มืด"
+    }
+  },
+  {
+    "id": "n4-090",
+    "kanji": "曜",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "romaji": "you",
+    "translations": {
+      "en": "Day of week",
+      "si": "සතියේ දිනය",
+      "ne": "बार",
+      "vi": "Ngày trong tuần",
+      "hi": "वार",
+      "th": "วันในสัปดาห์"
+    }
+  },
+  {
+    "id": "n4-091",
+    "kanji": "有",
+    "onyomi": "ユウ, ウ",
+    "kunyomi": "あ.る",
+    "romaji": "yuu",
+    "translations": {
+      "en": "Exist/Have",
+      "si": "පවතී",
+      "ne": "छ",
+      "vi": "Có",
+      "hi": "है",
+      "th": "มี"
+    }
+  },
+  {
+    "id": "n4-092",
+    "kanji": "服",
+    "onyomi": "フク",
+    "kunyomi": "",
+    "romaji": "fuku",
+    "translations": {
+      "en": "Clothes/Submit",
+      "si": "ඇඳුම්",
+      "ne": "कपडा",
+      "vi": "Quần áo",
+      "hi": "कपड़े",
+      "th": "เสื้อผ้า"
+    }
+  },
+  {
+    "id": "n4-093",
+    "kanji": "朝",
+    "onyomi": "チョウ",
+    "kunyomi": "あさ",
+    "romaji": "chou",
+    "translations": {
+      "en": "Morning",
+      "si": "උදෑසන",
+      "ne": "बिहान",
+      "vi": "Sáng",
+      "hi": "सुबह",
+      "th": "เช้า"
+    }
+  },
+  {
+    "id": "n4-094",
+    "kanji": "業",
+    "onyomi": "ギョウ, ゴウ",
+    "kunyomi": "わざ",
+    "romaji": "gyou",
+    "translations": {
+      "en": "Business/Vocation",
+      "si": "ව්‍යාපාරය",
+      "ne": "व्यापार",
+      "vi": "Nghiệp",
+      "hi": "व्यापार",
+      "th": "ธุรกิจ"
+    }
+  },
+  {
+    "id": "n4-095",
+    "kanji": "楽",
+    "onyomi": "ガク, ラク",
+    "kunyomi": "たの.しい",
+    "romaji": "raku",
+    "translations": {
+      "en": "Music/Comfort",
+      "si": "සංගීතය/පහසුව",
+      "ne": "संगीत",
+      "vi": "Nhạc/Vui",
+      "hi": "संगीत/सुख",
+      "th": "ดนตรี/สบาย"
+    }
+  },
+  {
+    "id": "n4-096",
+    "kanji": "歌",
+    "onyomi": "カ",
+    "kunyomi": "うた, うた.う",
+    "romaji": "か",
+    "translations": {
+      "en": "Song",
+      "si": "ගීතය",
+      "ne": "गीت",
+      "vi": "Bài hát",
+      "hi": "गीत",
+      "th": "เพลง"
+    }
+  },
+  {
+    "id": "n4-097",
+    "kanji": "止",
+    "onyomi": "シ",
+    "kunyomi": "と.まる",
+    "romaji": "shi",
+    "translations": {
+      "en": "Stop",
+      "si": "නතර වීම",
+      "ne": "रोक्नु",
+      "vi": "Dừng",
+      "hi": "रुकना",
+      "th": "หยุด"
+    }
+  },
+  {
+    "id": "n4-098",
+    "kanji": "正",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "ただ.しい, まさ",
+    "romaji": "sei",
+    "translations": {
+      "en": "Correct",
+      "si": "නිවැරදි",
+      "ne": "सही",
+      "vi": "Đúng",
+      "hi": "सही",
+      "th": "ถูกต้อง"
+    }
+  },
+  {
+    "id": "n4-099",
+    "kanji": "歩",
+    "onyomi": "ホ, ブ, フ",
+    "kunyomi": "ある.く, あゆ.む",
+    "romaji": "ho",
+    "translations": {
+      "en": "Walk",
+      "si": "ඇවිදීම",
+      "ne": "हिड्नु",
+      "vi": "Đi bộ",
+      "hi": "चलना",
+      "th": "เดิน"
+    }
+  },
+  {
+    "id": "n4-100",
+    "kanji": "死",
+    "onyomi": "シ",
+    "kunyomi": "し.ぬ",
+    "romaji": "shi",
+    "translations": {
+      "en": "Die",
+      "si": "මිය යාම",
+      "ne": "मर्नु",
+      "vi": "Chết",
+      "hi": "मरना",
+      "th": "ตาย"
+    }
+  },
+  {
+    "id": "n4-101",
+    "kanji": "注",
+    "onyomi": "チュウ",
+    "kunyomi": "そそ.ぐ",
+    "romaji": "chuu",
+    "translations": {
+      "en": "Pour/Notes",
+      "si": "වත් කිරීම",
+      "ne": "खन्याउनु",
+      "vi": "Rót/Chú ý",
+      "hi": "डालना",
+      "th": "ริน/หมายเหตุ"
+    }
+  },
+  {
+    "id": "n4-102",
+    "kanji": "決",
+    "onyomi": "ケツ",
+    "kunyomi": "き.める",
+    "romaji": "ketsu",
+    "translations": {
+      "en": "Decide",
+      "si": "තීරණය",
+      "ne": "निर्णय",
+      "vi": "Quyết",
+      "hi": "तय",
+      "th": "ตัดสินใจ"
+    }
+  },
+  {
+    "id": "n4-103",
+    "kanji": "洋",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "romaji": "you",
+    "translations": {
+      "en": "Ocean/Western",
+      "si": "සාගරය",
+      "ne": "महासागर",
+      "vi": "Đại dương",
+      "hi": "सागर",
+      "th": "มหาสมุทร"
+    }
+  },
+  {
+    "id": "n4-104",
+    "kanji": "洗",
+    "onyomi": "セン",
+    "kunyomi": "あら.う",
+    "romaji": "sen",
+    "translations": {
+      "en": "Wash",
+      "si": "සේදීම",
+      "ne": "धुनु",
+      "vi": "Rửa",
+      "hi": "धोना",
+      "th": "ล้าง"
+    }
+  },
+  {
+    "id": "n4-105",
+    "kanji": "海",
+    "onyomi": "カイ",
+    "kunyomi": "うみ",
+    "romaji": "kai",
+    "translations": {
+      "en": "Sea",
+      "si": "මුහුද",
+      "ne": "समुद्र",
+      "vi": "Biển",
+      "hi": "समुद्र",
+      "th": "ทะเล"
+    }
+  },
+  {
+    "id": "n4-106",
+    "kanji": "漢",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "romaji": "kan",
+    "translations": {
+      "en": "Sino-/China",
+      "si": "චීන",
+      "ne": "चिनियाँ",
+      "vi": "Hán",
+      "hi": "चीनी",
+      "th": "จีน"
+    }
+  },
+  {
+    "id": "n4-107",
+    "kanji": "牛",
+    "onyomi": "ギュウ",
+    "kunyomi": "うし",
+    "romaji": "gyuu",
+    "translations": {
+      "en": "Cow",
+      "si": "එළදෙන",
+      "ne": "गाई",
+      "vi": "Bò",
+      "hi": "गाय",
+      "th": "วัว"
+    }
+  },
+  {
+    "id": "n4-108",
+    "kanji": "特",
+    "onyomi": "トク",
+    "kunyomi": "",
+    "romaji": "toku",
+    "translations": {
+      "en": "Special",
+      "si": "විශේෂ",
+      "ne": "विशेष",
+      "vi": "Đặc biệt",
+      "hi": "विशेष",
+      "th": "พิเศษ"
+    }
+  },
+  {
+    "id": "n4-109",
+    "kanji": "犬",
+    "onyomi": "ケン",
+    "kunyomi": "いぬ",
+    "romaji": "ken",
+    "translations": {
+      "en": "Dog",
+      "si": "බල්ලා",
+      "ne": "कुकुर",
+      "vi": "Chó",
+      "hi": "कुत्ता",
+      "th": "หมา"
+    }
+  },
+  {
+    "id": "n4-110",
+    "kanji": "理",
+    "onyomi": "リ",
+    "kunyomi": "ことわり",
+    "romaji": "ri",
+    "translations": {
+      "en": "Logic/Reason",
+      "si": "හේතුව",
+      "ne": "कारण",
+      "vi": "Lý/Lý do",
+      "hi": "कारण",
+      "th": "เหตุผล"
+    }
+  },
+  {
+    "id": "n4-111",
+    "kanji": "用",
+    "onyomi": "ヨウ",
+    "kunyomi": "もち.いる",
+    "romaji": "you",
+    "translations": {
+      "en": "Use/Task",
+      "si": "භාවිතය",
+      "ne": "प्रयोग",
+      "vi": "Dùng",
+      "hi": "उपयोग",
+      "th": "ใช้"
+    }
+  },
+  {
+    "id": "n4-112",
+    "kanji": "田",
+    "onyomi": "デン",
+    "kunyomi": "た",
+    "romaji": "den",
+    "translations": {
+      "en": "Rice field",
+      "si": "කුඹුර",
+      "ne": "खेत",
+      "vi": "Ruộng",
+      "hi": "खेत",
+      "th": "นา"
+    }
+  },
+  {
+    "id": "n4-113",
+    "kanji": "町",
+    "onyomi": "チョウ",
+    "kunyomi": "まち",
+    "romaji": "chou",
+    "translations": {
+      "en": "Town",
+      "si": "නගරය",
+      "ne": "नगर",
+      "vi": "Thị trấn",
+      "hi": "कस्बा",
+      "th": "เมือง"
+    }
+  },
+  {
+    "id": "n4-114",
+    "kanji": "画",
+    "onyomi": "ガ, カク",
+    "kunyomi": "",
+    "romaji": "ga",
+    "translations": {
+      "en": "Picture",
+      "si": "පින්තූරය",
+      "ne": "तस्विर",
+      "vi": "Họa/Bức tranh",
+      "hi": "चित्र",
+      "th": "ภาพ"
+    }
+  },
+  {
+    "id": "n4-115",
+    "kanji": "界",
+    "onyomi": "カイ",
+    "kunyomi": "",
+    "romaji": "kai",
+    "translations": {
+      "en": "Boundary/World",
+      "si": "සීමාව",
+      "ne": "सिमाना",
+      "vi": "Giới",
+      "hi": "सीमा/दुनिया",
+      "th": "ขอบเขต"
+    }
+  },
+  {
+    "id": "n4-116",
+    "kanji": "番",
+    "onyomi": "バン",
+    "kunyomi": "",
+    "romaji": "ban",
+    "translations": {
+      "en": "Turn/Number",
+      "si": "අංකය",
+      "ne": "नम्बर",
+      "vi": "Số",
+      "hi": "नंबर",
+      "th": "หมายเลข"
+    }
+  },
+  {
+    "id": "n4-117",
+    "kanji": "病",
+    "onyomi": "ビョウ, ヘイ",
+    "kunyomi": "やむ, やまい",
+    "romaji": "byou",
+    "translations": {
+      "en": "Illness",
+      "si": "රෝගය",
+      "ne": "रोग",
+      "vi": "Bệnh",
+      "hi": "बीमारी",
+      "th": "ป่วย"
+    }
+  },
+  {
+    "id": "n4-118",
+    "kanji": "発",
+    "onyomi": "ハツ, ホツ",
+    "kunyomi": "た.つ",
+    "romaji": "hatsu",
+    "translations": {
+      "en": "Emit/Start",
+      "si": "ආරම්භ කිරීම",
+      "ne": "सुरु",
+      "vi": "Phát/Bắt đầu",
+      "hi": "शुरू",
+      "th": "ปล่อย"
+    }
+  },
+  {
+    "id": "n4-119",
+    "kanji": "的",
+    "onyomi": "テキ",
+    "kunyomi": "まと",
+    "romaji": "teki",
+    "translations": {
+      "en": "Target/-ish",
+      "si": "ඉලක්කය",
+      "ne": "लक्ष्य",
+      "vi": "Đích",
+      "hi": "लक्ष्य",
+      "th": "เป้าหมาย"
+    }
+  },
+  {
+    "id": "n4-120",
+    "kanji": "目",
+    "onyomi": "モク, ボク",
+    "kunyomi": "め",
+    "romaji": "moku",
+    "translations": {
+      "en": "Eye",
+      "si": "ඇස",
+      "ne": "आँखा",
+      "vi": "Mắt",
+      "hi": "आँख",
+      "th": "ตา"
+    }
+  },
+  {
+    "id": "n4-121",
+    "kanji": "着",
+    "onyomi": "チャク, ジャク",
+    "kunyomi": "き.る, つ.く",
+    "romaji": "chaku",
+    "translations": {
+      "en": "Arrive/Wear",
+      "si": "පැමිණීම/ඇඳීම",
+      "ne": "आउनु/लगाउनु",
+      "vi": "Đến/Mặc",
+      "hi": "पहुंचना/पहनना",
+      "th": "ถึง/สวมใส่"
+    }
+  },
+  {
+    "id": "n4-122",
+    "kanji": "知",
+    "onyomi": "チ",
+    "kunyomi": "し.る",
+    "romaji": "chi",
+    "translations": {
+      "en": "Know",
+      "si": "දැනගන්න",
+      "ne": "थाहा पाउनु",
+      "vi": "Biết",
+      "hi": "जानना",
+      "th": "รู้"
+    }
+  },
+  {
+    "id": "n4-123",
+    "kanji": "短",
+    "onyomi": "タン",
+    "kunyomi": "みじか.い",
+    "romaji": "tan",
+    "translations": {
+      "en": "Short",
+      "si": "කෙටි",
+      "ne": "छोटो",
+      "vi": "Ngắn",
+      "hi": "छोटा",
+      "th": "สั้น"
+    }
+  },
+  {
+    "id": "n4-124",
+    "kanji": "石",
+    "onyomi": "セキ, シャク, コク",
+    "kunyomi": "いし",
+    "romaji": "seki",
+    "translations": {
+      "en": "Stone",
+      "si": "ගල",
+      "ne": "ढुंगा",
+      "vi": "Đá",
+      "hi": "पत्थर",
+      "th": "หิน"
+    }
+  },
+  {
+    "id": "n4-125",
+    "kanji": "研",
+    "onyomi": "ケン",
+    "kunyomi": "と.ぐ",
+    "romaji": "ken",
+    "translations": {
+      "en": "Polish/Study",
+      "si": "ඔප දැමීම",
+      "ne": "अध्ययन",
+      "vi": "Nghiên cứu",
+      "hi": "अध्ययन",
+      "th": "วิจัย/ขัด"
+    }
+  },
+  {
+    "id": "n4-126",
+    "kanji": "究",
+    "onyomi": "キュウ, ク",
+    "kunyomi": "きわ.める",
+    "romaji": "kyuu",
+    "translations": {
+      "en": "Research",
+      "si": "පර්යේෂණ",
+      "ne": "अनुसन्धान",
+      "vi": "Cứu",
+      "hi": "अनुसंधान",
+      "th": "วิจัย"
+    }
+  },
+  {
+    "id": "n4-127",
+    "kanji": "社",
+    "onyomi": "シャ",
+    "kunyomi": "やしろ",
+    "romaji": "sha",
+    "translations": {
+      "en": "Company/Shrine",
+      "si": "සමාගම",
+      "ne": "कम्पनी",
+      "vi": "Công ty",
+      "hi": "कंपनी",
+      "th": "บริษัท"
+    }
+  },
+  {
+    "id": "n4-128",
+    "kanji": "神",
+    "onyomi": "シン, ジン",
+    "kunyomi": "かみ, かん-, こう-",
+    "romaji": "shin",
+    "translations": {
+      "en": "God",
+      "si": "දෙවියන්",
+      "ne": "भगवान",
+      "vi": "Thần",
+      "hi": "भगवान",
+      "th": "พระเจ้า"
+    }
+  },
+  {
+    "id": "n4-129",
+    "kanji": "私",
+    "onyomi": "シ",
+    "kunyomi": "わたし, わたくし",
+    "romaji": "shi",
+    "translations": {
+      "en": "I/Private",
+      "si": "මම",
+      "ne": "म",
+      "vi": "Tôi",
+      "hi": "मैं",
+      "th": "ฉัน"
+    }
+  },
+  {
+    "id": "n4-130",
+    "kanji": "秋",
+    "onyomi": "シュウ",
+    "kunyomi": "あき",
+    "romaji": "shuu",
+    "translations": {
+      "en": "Autumn",
+      "si": "සරත් ඍතුව",
+      "ne": "शरद",
+      "vi": "Mùa thu",
+      "hi": "पतझड़",
+      "th": "ฤดูใบไม้ร่วง"
+    }
+  },
+  {
+    "id": "n4-131",
+    "kanji": "科",
+    "onyomi": "カ",
+    "kunyomi": "",
+    "romaji": "ka",
+    "translations": {
+      "en": "Department/Course",
+      "si": "අංශය",
+      "ne": "विभाग",
+      "vi": "Khoa",
+      "hi": "विभाग",
+      "th": "วิชา/แผนก"
+    }
+  },
+  {
+    "id": "n4-132",
+    "kanji": "答",
+    "onyomi": "トウ",
+    "kunyomi": "こた.える",
+    "romaji": "tou",
+    "translations": {
+      "en": "Answer",
+      "si": "පිළිතුර",
+      "ne": "उत्तर",
+      "vi": "Trả lời",
+      "hi": "उत्तर",
+      "th": "ตอบ"
+    }
+  },
+  {
+    "id": "n4-133",
+    "kanji": "節",
+    "onyomi": "セツ, セチ",
+    "kunyomi": "ふし",
+    "romaji": "setsu",
+    "translations": {
+      "en": "Node/Season",
+      "si": "කාලය/සන්ධිය",
+      "ne": "मौसम",
+      "vi": "Tiết",
+      "hi": "मौसम",
+      "th": "ฤดู/ข้อ"
+    }
+  },
+  {
+    "id": "n4-134",
+    "kanji": "米",
+    "onyomi": "ベイ, マイ, メエ",
+    "kunyomi": "こめ, よね",
+    "romaji": "bei",
+    "translations": {
+      "en": "Rice/America",
+      "si": "සහල්",
+      "ne": "चामल",
+      "vi": "Gạo",
+      "hi": "चावल",
+      "th": "ข้าว"
+    }
+  },
+  {
+    "id": "n4-135",
+    "kanji": "終",
+    "onyomi": "シュウ",
+    "kunyomi": "お.わる, お.える",
+    "romaji": "shuu",
+    "translations": {
+      "en": "End",
+      "si": "අවසානය",
+      "ne": "अन्त्य",
+      "vi": "Kết thúc",
+      "hi": "अंत",
+      "th": "จบ"
+    }
+  },
+  {
+    "id": "n4-136",
+    "kanji": "習",
+    "onyomi": "シュウ",
+    "kunyomi": "なら.う",
+    "romaji": "shuu",
+    "translations": {
+      "en": "Learn",
+      "si": "ඉගෙනීම",
+      "ne": "सिक्नु",
+      "vi": "Học tập",
+      "hi": "सीखना",
+      "th": "เรียนรู้"
+    }
+  },
+  {
+    "id": "n4-137",
+    "kanji": "考",
+    "onyomi": "コウ",
+    "kunyomi": "かんが.える",
+    "romaji": "kou",
+    "translations": {
+      "en": "Think/Consider",
+      "si": "කල්පනා කිරීම",
+      "ne": "सोच्नु",
+      "vi": "Suy nghĩ",
+      "hi": "सोचना",
+      "th": "คิด"
+    }
+  },
+  {
+    "id": "n4-138",
+    "kanji": "者",
+    "onyomi": "シャ",
+    "kunyomi": "もの",
+    "romaji": "sha",
+    "translations": {
+      "en": "Person (professional)",
+      "si": "පුද්ගලයා",
+      "ne": "व्यक्ति",
+      "vi": "Người",
+      "hi": "व्यक्ति",
+      "th": "บุคคล"
+    }
+  },
+  {
+    "id": "n4-139",
+    "kanji": "肉",
+    "onyomi": "ニク",
+    "kunyomi": "",
+    "romaji": "niku",
+    "translations": {
+      "en": "Meat",
+      "si": "මස්",
+      "ne": "मासु",
+      "vi": "Thịt",
+      "hi": "मांस",
+      "th": "เนื้อ"
+    }
+  },
+  {
+    "id": "n4-140",
+    "kanji": "自",
+    "onyomi": "ジ, シ",
+    "kunyomi": "みずか.ら",
+    "romaji": "ji",
+    "translations": {
+      "en": "Self",
+      "si": "තමා",
+      "ne": "आफू",
+      "vi": "Tự",
+      "hi": "स्वयं",
+      "th": "ตัวเอง"
+    }
+  },
+  {
+    "id": "n4-141",
+    "kanji": "至",
+    "onyomi": "シ",
+    "kunyomi": "いた.る",
+    "romaji": "shi",
+    "translations": {
+      "en": "Attain/Reach",
+      "si": "ළඟා වීම",
+      "ne": "पुग्नु",
+      "vi": "Đạt đến",
+      "hi": "पहुंचना",
+      "th": "ถึง"
+    }
+  },
+  {
+    "id": "n4-142",
+    "kanji": "茶",
+    "onyomi": "チャ, サ",
+    "kunyomi": "",
+    "romaji": "cha",
+    "translations": {
+      "en": "Tea",
+      "si": "තේ",
+      "ne": "चिया",
+      "vi": "Trà",
+      "hi": "चाय",
+      "th": "ชา"
+    }
+  },
+  {
+    "id": "n4-143",
+    "kanji": "菜",
+    "onyomi": "サイ",
+    "kunyomi": "な",
+    "romaji": "sai",
+    "translations": {
+      "en": "Vegetable",
+      "si": "එළවළු",
+      "ne": "तरकारी",
+      "vi": "Rau",
+      "hi": "सब्ज़ी",
+      "th": "ผัก"
+    }
+  },
+  {
+    "id": "n4-144",
+    "kanji": "華",
+    "onyomi": "カ, ケ",
+    "kunyomi": "はな",
+    "romaji": "ka",
+    "translations": {
+      "en": "Splendor/Flower",
+      "si": "මල්/අලංකාරය",
+      "ne": "फूल",
+      "vi": "Hoa",
+      "hi": "शानदार",
+      "th": "ดอกไม้/หรูหรา"
+    }
+  },
+  {
+    "id": "n4-145",
+    "kanji": "薬",
+    "onyomi": "ヤク",
+    "kunyomi": "くすり",
+    "romaji": "yaku",
+    "translations": {
+      "en": "Medicine",
+      "si": "ඖෂධය",
+      "ne": "औषधि",
+      "vi": "Thuốc",
+      "hi": "दवा",
+      "th": "ยา"
+    }
+  },
+  {
+    "id": "n4-146",
+    "kanji": "親",
+    "onyomi": "シン",
+    "kunyomi": "おや, した.しい",
+    "romaji": "shin",
+    "translations": {
+      "en": "Parent/Intimate",
+      "si": "දෙමාපියා",
+      "ne": "अभिभावक",
+      "vi": "Cha mẹ/Thân",
+      "hi": "माता-पिता",
+      "th": "พ่อแม่"
+    }
+  },
+  {
+    "id": "n4-147",
+    "kanji": "計",
+    "onyomi": "ケイ",
+    "kunyomi": "はか.る",
+    "romaji": "kei",
+    "translations": {
+      "en": "Measure/Plan",
+      "si": "මැනීම",
+      "ne": "नाप्नु",
+      "vi": "Kế hoạch",
+      "hi": "मापना/योजना",
+      "th": "วัด/แผน"
+    }
+  },
+  {
+    "id": "n4-148",
+    "kanji": "試",
+    "onyomi": "シ",
+    "kunyomi": "こころ.みる, ため.す",
+    "romaji": "shi",
+    "translations": {
+      "en": "Test/Try",
+      "si": "පරීක්ෂණය",
+      "ne": "परीक्षण",
+      "vi": "Thử nghiệm",
+      "hi": "परीक्षण",
+      "th": "ทดสอบ"
+    }
+  },
+  {
+    "id": "n4-149",
+    "kanji": "説",
+    "onyomi": "セツ, ゼイ",
+    "kunyomi": "と.く",
+    "romaji": "setsu",
+    "translations": {
+      "en": "Theory/Explain",
+      "si": "විස්තර කිරීම",
+      "ne": "व्याख्या",
+      "vi": "Thuyết",
+      "hi": "सिद्धांत/व्याख्या",
+      "th": "อธิบาย"
+    }
+  },
+  {
+    "id": "n4-150",
+    "kanji": "貸",
+    "onyomi": "タイ",
+    "kunyomi": "か.す",
+    "romaji": "tai",
+    "translations": {
+      "en": "Lend",
+      "si": "ණයට දීම",
+      "ne": "उधार दिनु",
+      "vi": "Cho mượn",
+      "hi": "उधार देना",
+      "th": "ให้ยืม"
+    }
+  },
+  {
+    "id": "n4-151",
+    "kanji": "質",
+    "onyomi": "シツ, シチ, チ",
+    "kunyomi": "たち, ただ.す",
+    "romaji": "shitsu",
+    "translations": {
+      "en": "Quality/Matter",
+      "si": "ගුණාත්මක",
+      "ne": "गुणस्तर",
+      "vi": "Chất lượng",
+      "hi": "गुणवत्ता",
+      "th": "คุณภาพ/เนื้อหา"
+    }
+  },
+  {
+    "id": "n4-152",
+    "kanji": "赤",
+    "onyomi": "セキ, シャク",
+    "kunyomi": "あか, あか.い",
+    "romaji": "aka",
+    "translations": {
+      "en": "Red",
+      "si": "රතු",
+      "ne": "रातो",
+      "vi": "Đỏ",
+      "hi": "लाल",
+      "th": "แดง"
+    }
+  },
+  {
+    "id": "n4-153",
+    "kanji": "走",
+    "onyomi": "ソウ",
+    "kunyomi": "はし.る",
+    "romaji": "sou",
+    "translations": {
+      "en": "Run",
+      "si": "ධාවනය",
+      "ne": "दौडनु",
+      "vi": "Chạy",
+      "hi": "दौड़ना",
+      "th": "วิ่ง"
+    }
+  },
+  {
+    "id": "n4-154",
+    "kanji": "起",
+    "onyomi": "キ",
+    "kunyomi": "お.きる, お.こる",
+    "romaji": "ki",
+    "translations": {
+      "en": "Awaken/Rise",
+      "si": "අවදි වීම",
+      "ne": "उठ्नु",
+      "vi": "Thức dậy",
+      "hi": "उठना",
+      "th": "ตื่น"
+    }
+  },
+  {
+    "id": "n4-155",
+    "kanji": "足",
+    "onyomi": "ソク",
+    "kunyomi": "あし, た.りる",
+    "romaji": "soku",
+    "translations": {
+      "en": "Leg/Suffice",
+      "si": "කකුල",
+      "ne": "खुट्टा",
+      "vi": "Chân",
+      "hi": "पैर",
+      "th": "ขา"
+    }
+  },
+  {
+    "id": "n4-156",
+    "kanji": "転",
+    "onyomi": "テン",
+    "kunyomi": "ころ.がる, ころ.ぶ",
+    "romaji": "ten",
+    "translations": {
+      "en": "Revolve/Turn",
+      "si": "හැරවීම",
+      "ne": "घुम्नु",
+      "vi": "Chuyển",
+      "hi": "घूमना",
+      "th": "หมุน"
+    }
+  },
+  {
+    "id": "n4-157",
+    "kanji": "近",
+    "onyomi": "キン, コン",
+    "kunyomi": "ちか.い",
+    "romaji": "kin",
+    "translations": {
+      "en": "Near",
+      "si": "ළඟ",
+      "ne": "नजिक",
+      "vi": "Gần",
+      "hi": "करीब",
+      "th": "ใกล้"
+    }
+  },
+  {
+    "id": "n4-158",
+    "kanji": "送",
+    "onyomi": "ソウ",
+    "kunyomi": "おく.る",
+    "romaji": "sou",
+    "translations": {
+      "en": "Send",
+      "si": "යැවීම",
+      "ne": "पठाउनु",
+      "vi": "Gửi",
+      "hi": "भेजना",
+      "th": "ส่ง"
+    }
+  },
+  {
+    "id": "n4-159",
+    "kanji": "通",
+    "onyomi": "ツウ",
+    "kunyomi": "とお.る, かよ.う",
+    "romaji": "tsuu",
+    "translations": {
+      "en": "Pass/Commute",
+      "si": "ගමන් කිරීම",
+      "ne": "पार गर्नु",
+      "vi": "Qua",
+      "hi": "गुज़रना",
+      "th": "ผ่าน"
+    }
+  },
+  {
+    "id": "n4-160",
+    "kanji": "進",
+    "onyomi": "シン",
+    "kunyomi": "すす.む, すす.める",
+    "romaji": "shin",
+    "translations": {
+      "en": "Advance",
+      "si": "ඉදිරියට යාම",
+      "ne": "अघि बढ्नु",
+      "vi": "Tiến lên",
+      "hi": "आगे बढ़ना",
+      "th": "ก้าวหน้า"
+    }
+  },
+  {
+    "id": "n4-161",
+    "kanji": "運",
+    "onyomi": "ウン",
+    "kunyomi": "はこ.ぶ",
+    "romaji": "un",
+    "translations": {
+      "en": "Carry/Luck",
+      "si": "ප්‍රවාහනය",
+      "ne": "भाग्य/बोक्नु",
+      "vi": "Vận chuyển",
+      "hi": "ले जाना/भाग्य",
+      "th": "โชค/ขนส่ง"
+    }
+  },
+  {
+    "id": "n4-162",
+    "kanji": "道",
+    "onyomi": "ドウ, トウ",
+    "kunyomi": "みち",
+    "romaji": "dou",
+    "translations": {
+      "en": "Road/Path",
+      "si": "පාර",
+      "ne": "बाटो",
+      "vi": "Đường",
+      "hi": "रास्ता",
+      "th": "ถนน"
+    }
+  },
+  {
+    "id": "n4-163",
+    "kanji": "遠",
+    "onyomi": "エン, オン",
+    "kunyomi": "とお.い",
+    "romaji": "en",
+    "translations": {
+      "en": "Far",
+      "si": "දුර",
+      "ne": "टाढा",
+      "vi": "Xa",
+      "hi": "दूर",
+      "th": "ไกล"
+    }
+  },
+  {
+    "id": "n4-164",
+    "kanji": "都",
+    "onyomi": "ト, ツ",
+    "kunyomi": "みやこ",
+    "romaji": "to",
+    "translations": {
+      "en": "Metropolis/Capital",
+      "si": "අගනුවර",
+      "ne": "राजधानी",
+      "vi": "Thủ đô",
+      "hi": "राजधानी",
+      "th": "เมืองหลวง"
+    }
+  },
+  {
+    "id": "n4-165",
+    "kanji": "重",
+    "onyomi": "ジュウ, チョウ",
+    "kunyomi": "おも.い, かさ.ねる",
+    "romaji": "juu",
+    "translations": {
+      "en": "Heavy",
+      "si": "බර",
+      "ne": "गह्रौं",
+      "vi": "Nặng",
+      "hi": "भारी",
+      "th": "หนัก"
+    }
+  },
+  {
+    "id": "n4-166",
+    "kanji": "野",
+    "onyomi": "ヤ",
+    "kunyomi": "の",
+    "romaji": "ya",
+    "translations": {
+      "en": "Field",
+      "si": "ක්ෂේත්‍රය",
+      "ne": "खेत",
+      "vi": "Cánh đồng",
+      "hi": "मैदान",
+      "th": "ทุ่ง"
+    }
+  },
+  {
+    "id": "n4-167",
+    "kanji": "鉄",
+    "onyomi": "テツ",
+    "kunyomi": "くろがね",
+    "romaji": "tetsu",
+    "translations": {
+      "en": "Iron",
+      "si": "යකඩ",
+      "ne": "फलाम",
+      "vi": "Sắt",
+      "hi": "लोहा",
+      "th": "เหล็ก"
+    }
+  },
+  {
+    "id": "n4-168",
+    "kanji": "銀",
+    "onyomi": "ギン",
+    "kunyomi": "しろがね",
+    "romaji": "gin",
+    "translations": {
+      "en": "Silver",
+      "si": "රිදී",
+      "ne": "चाँदी",
+      "vi": "Bạc",
+      "hi": "चांदी",
+      "th": "เงิน"
+    }
+  },
+  {
+    "id": "n4-169",
+    "kanji": "閉",
+    "onyomi": "ヘイ",
+    "kunyomi": "と.じる, し.める",
+    "romaji": "hei",
+    "translations": {
+      "en": "Close",
+      "si": "වැසීම",
+      "ne": "बन्द",
+      "vi": "Đóng",
+      "hi": "बंद",
+      "th": "ปิด"
+    }
+  },
+  {
+    "id": "n4-170",
+    "kanji": "開",
+    "onyomi": "カイ",
+    "kunyomi": "ひら.く, あ.ける",
+    "romaji": "kai",
+    "translations": {
+      "en": "Open",
+      "si": "විවෘත කිරීම",
+      "ne": "खोल्नु",
+      "vi": "Mở",
+      "hi": "खोलना",
+      "th": "เปิด"
+    }
+  },
+  {
+    "id": "n4-171",
+    "kanji": "院",
+    "onyomi": "イン",
+    "kunyomi": "",
+    "romaji": "in",
+    "translations": {
+      "en": "Institution",
+      "si": "ආයතනය",
+      "ne": "संस्था",
+      "vi": "Viện",
+      "hi": "संस्था",
+      "th": "สถาบัน"
+    }
+  },
+  {
+    "id": "n4-172",
+    "kanji": "降",
+    "onyomi": "コウ, ゴ",
+    "kunyomi": "お.りる, ふ.る",
+    "romaji": "kou",
+    "translations": {
+      "en": "Descend/Fall",
+      "si": "බැසීම",
+      "ne": "झर्नु",
+      "vi": "Rơi",
+      "hi": "उतरना/गिरना",
+      "th": "ตก/ลง"
+    }
+  },
+  {
+    "id": "n4-173",
+    "kanji": "階",
+    "onyomi": "カイ",
+    "kunyomi": "きざはし",
+    "romaji": "kai",
+    "translations": {
+      "en": "Story/Stair",
+      "si": "මහල",
+      "ne": "तल्ला",
+      "vi": "Tầng",
+      "hi": "मंज़िल",
+      "th": "ชั้น"
+    }
+  },
+  {
+    "id": "n4-174",
+    "kanji": "集",
+    "onyomi": "シュウ",
+    "kunyomi": "あつ.まる",
+    "romaji": "shuu",
+    "translations": {
+      "en": "Gather",
+      "si": "එකතු වීම",
+      "ne": "जम्मा हुनु",
+      "vi": "Tập hợp",
+      "hi": "इकट्ठा होना",
+      "th": "รวบรวม"
+    }
+  },
+  {
+    "id": "n4-175",
+    "kanji": "難",
+    "onyomi": "ナン",
+    "kunyomi": "かた.い, むずか.しい",
+    "romaji": "nan",
+    "translations": {
+      "en": "Difficult",
+      "si": "අමාරු",
+      "ne": "गाह्रो",
+      "vi": "Khó",
+      "hi": "मुश्किल",
+      "th": "ยาก"
+    }
+  },
+  {
+    "id": "n4-176",
+    "kanji": "雪",
+    "onyomi": "セツ",
+    "kunyomi": "ゆき",
+    "romaji": "setsu",
+    "translations": {
+      "en": "Snow",
+      "si": "හිම",
+      "ne": "हिउँ",
+      "vi": "Tuyết",
+      "hi": "बर्फ",
+      "th": "หิมะ"
+    }
+  },
+  {
+    "id": "n4-177",
+    "kanji": "雲",
+    "onyomi": "ウン",
+    "kunyomi": "くも",
+    "romaji": "un",
+    "translations": {
+      "en": "Cloud",
+      "si": "වලාකුළු",
+      "ne": "बादल",
+      "vi": "Mây",
+      "hi": "बादल",
+      "th": "เมฆ"
+    }
+  },
+  {
+    "id": "n4-178",
+    "kanji": "青",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "あお, あお.い",
+    "romaji": "sei",
+    "translations": {
+      "en": "Blue",
+      "si": "නිල්",
+      "ne": "नीलो",
+      "vi": "Xanh",
+      "hi": "नीला",
+      "th": "สีน้ำเงิน"
+    }
+  },
+  {
+    "id": "n4-179",
+    "kanji": "音",
+    "onyomi": "オン, イン",
+    "kunyomi": "おと, ね",
+    "romaji": "on",
+    "translations": {
+      "en": "Sound",
+      "si": "ශබ්දය",
+      "ne": "आवाज",
+      "vi": "Âm thanh",
+      "hi": "आवाज़",
+      "th": "เสียง"
+    }
+  },
+  {
+    "id": "n4-180",
+    "kanji": "題",
+    "onyomi": "ダイ",
+    "kunyomi": "",
+    "romaji": "dai",
+    "translations": {
+      "en": "Topic",
+      "si": "මාතෘකාව",
+      "ne": "विषय",
+      "vi": "Đề tài",
+      "hi": "विषय",
+      "th": "หัวข้อ"
+    }
+  },
+  {
+    "id": "n4-181",
+    "kanji": "風",
+    "onyomi": "フウ, フ",
+    "kunyomi": "かぜ, かざ-",
+    "romaji": "fuu",
+    "translations": {
+      "en": "Wind",
+      "si": "සුළඟ",
+      "ne": "हावा",
+      "vi": "Gió",
+      "hi": "हवा",
+      "th": "ลม"
+    }
+  },
+  {
+    "id": "n4-182",
+    "kanji": "飯",
+    "onyomi": "ハン",
+    "kunyomi": "めし",
+    "romaji": "han",
+    "translations": {
+      "en": "Meal",
+      "si": "ආහාරය",
+      "ne": "खाना",
+      "vi": "Cơm",
+      "hi": "भोजन",
+      "th": "ข้าว"
+    }
+  },
+  {
+    "id": "n4-183",
+    "kanji": "飲",
+    "onyomi": "イン",
+    "kunyomi": "の.む",
+    "romaji": "in",
+    "translations": {
+      "en": "Drink",
+      "si": "බීම",
+      "ne": "पिउनु",
+      "vi": "Uống",
+      "hi": "पीना",
+      "th": "ดื่ม"
+    }
+  },
+  {
+    "id": "n4-184",
+    "kanji": "飼",
+    "onyomi": "シ",
+    "kunyomi": "か.う",
+    "romaji": "shi",
+    "translations": {
+      "en": "Domesticate",
+      "si": "සුරතල් සතුන් ඇති කිරීම",
+      "ne": "पाल्नु",
+      "vi": "Nuôi",
+      "hi": "पालना",
+      "th": "เลี้ยง"
+    }
+  },
+  {
+    "id": "n4-185",
+    "kanji": "首",
+    "onyomi": "シュ",
+    "kunyomi": "くび",
+    "romaji": "shu",
+    "translations": {
+      "en": "Neck",
+      "si": "බෙල්ල",
+      "ne": "घाँटी",
+      "vi": "Cổ",
+      "hi": "गर्दन",
+      "th": "คอ"
+    }
+  },
+  {
+    "id": "n4-186",
+    "kanji": "馬",
+    "onyomi": "バ",
+    "kunyomi": "うま, ま",
+    "romaji": "ba",
+    "translations": {
+      "en": "Horse",
+      "si": "අශ්වයා",
+      "ne": "घोडा",
+      "vi": "Ngựa",
+      "hi": "घोड़ा",
+      "th": "ม้า"
+    }
+  },
+  {
+    "id": "n4-187",
+    "kanji": "魚",
+    "onyomi": "ギョ",
+    "kunyomi": "うお, さかな",
+    "romaji": "gyo",
+    "translations": {
+      "en": "Fish",
+      "si": "මාළුවා",
+      "ne": "माछा",
+      "vi": "Cá",
+      "hi": "मछली",
+      "th": "ปลา"
+    }
+  },
+  {
+    "id": "n4-188",
+    "kanji": "鳥",
+    "onyomi": "チョウ",
+    "kunyomi": "とり",
+    "romaji": "chou",
+    "translations": {
+      "en": "Bird",
+      "si": "කුරුල්ලා",
+      "ne": "चरा",
+      "vi": "Chim",
+      "hi": "पक्षी",
+      "th": "นก"
+    }
+  },
+  {
+    "id": "n4-189",
+    "kanji": "黒",
+    "onyomi": "コク",
+    "kunyomi": "くろ, くろ.い",
+    "romaji": "koku",
+    "translations": {
+      "en": "Black",
+      "si": "කළු",
+      "ne": "कालो",
+      "vi": "Đen",
+      "hi": "काला",
+      "th": "ดำ"
+    }
+  },
+  {
+    "id": "n4-190",
+    "kanji": "员",
+    "onyomi": "イン",
+    "kunyomi": "",
+    "romaji": "in",
+    "translations": {
+      "en": "Member",
+      "si": "සාමාජිකයා",
+      "ne": "सदस्य",
+      "vi": "Thành viên",
+      "hi": "सदस्य",
+      "th": "สมาชิก"
+    }
+  }
+]
