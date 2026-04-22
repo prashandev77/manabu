@@ -36,57 +36,95 @@ export default function Home() {
       <main className="flex-1">
 
         {/* ── Hero (full screen) ──────────────────────── */}
-        <section className="relative flex items-center justify-center overflow-hidden bg-white border-b border-slate-100" style={{ minHeight: "calc(100dvh - 3.5rem)" }}>
-          {/* Soft blobs */}
+        <section className="hero-section relative flex items-center justify-center overflow-hidden bg-white border-b border-slate-100" style={{ minHeight: "calc(100dvh - 3.5rem)" }}>
+
+          {/* Animated gradient orbs */}
           <div className="pointer-events-none absolute inset-0 overflow-hidden">
-            <div className="absolute -top-32 -right-32 h-80 w-80 rounded-full bg-indigo-100/60 blur-[80px]" />
-            <div className="absolute -bottom-24 -left-24 h-64 w-64 rounded-full bg-violet-100/50 blur-[60px]" />
-            <div className="absolute top-1/2 left-1/2 h-48 w-48 -translate-x-1/2 -translate-y-1/2 rounded-full bg-sky-100/40 blur-[70px]" />
+            <div className="hero-orb hero-orb-1 absolute -top-20 -right-20 h-[500px] w-[500px] rounded-full bg-gradient-to-br from-indigo-200/50 to-violet-200/30 blur-[100px]" />
+            <div className="hero-orb hero-orb-2 absolute -bottom-32 -left-32 h-[400px] w-[400px] rounded-full bg-gradient-to-tr from-sky-200/40 to-cyan-100/30 blur-[90px]" />
+            <div className="hero-orb hero-orb-3 absolute top-1/3 left-1/4 h-[300px] w-[300px] rounded-full bg-gradient-to-r from-purple-200/30 to-pink-100/20 blur-[80px]" />
           </div>
 
-          <div className="relative mx-auto max-w-5xl px-4 py-14 sm:px-6 sm:py-20">
+          {/* Floating kanji characters */}
+          <div className="pointer-events-none absolute inset-0 overflow-hidden">
+            {["漢", "字", "学", "日", "本", "語", "読", "書", "人", "大", "山", "川", "火", "水", "木"].map((char, i) => (
+              <span
+                key={i}
+                className="floating-kanji absolute select-none font-bold text-slate-200/40"
+                style={{
+                  fontSize: `${18 + (i % 4) * 8}px`,
+                  left: `${5 + (i * 6.5) % 90}%`,
+                  top: `${8 + (i * 7.3) % 80}%`,
+                  animationDelay: `${i * 0.4}s`,
+                  animationDuration: `${6 + (i % 3) * 2}s`,
+                }}
+              >
+                {char}
+              </span>
+            ))}
+          </div>
+
+          {/* Main content */}
+          <div className="relative z-10 mx-auto max-w-5xl px-4 py-14 sm:px-6 sm:py-20">
             <div className="flex flex-col items-center text-center">
-              {/* Logo */}
-              <div className="animate-fade-in-up mb-6 relative h-20 w-20 sm:h-24 sm:w-24 drop-shadow-md">
-                <Image src="/manabu_logo.png" alt="Manabu" fill sizes="96px" className="object-contain" priority />
+
+              {/* Logo with glow ring */}
+              <div className="hero-logo-entrance mb-8 relative">
+                <div className="absolute -inset-3 animate-spin-slow rounded-full border border-dashed border-indigo-200/60" />
+                <div className="absolute -inset-6 animate-spin-reverse rounded-full border border-dashed border-violet-200/40" />
+                <div className="hero-logo-glow absolute -inset-4 rounded-full bg-gradient-to-r from-indigo-400/20 via-violet-400/20 to-purple-400/20 blur-xl" />
+                <div className="relative h-20 w-20 sm:h-24 sm:w-24">
+                  <Image src="/manabu_logo.png" alt="Manabu" fill sizes="96px" className="object-contain drop-shadow-lg" priority />
+                </div>
               </div>
 
-              {/* Headline */}
-              <h1 className="animate-fade-in-up delay-100 text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl md:text-5xl">
+              {/* Headline with animated gradient */}
+              <h1 className="hero-title text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl md:text-5xl lg:text-6xl">
                 Master{" "}
-                <span className="bg-gradient-to-r from-indigo-500 via-violet-500 to-purple-600 bg-clip-text text-transparent">
+                <span className="hero-gradient-text bg-[length:200%_auto] bg-gradient-to-r from-indigo-500 via-violet-500 to-indigo-500 bg-clip-text text-transparent">
                   JLPT Kanji
                 </span>
               </h1>
 
-              <p className="animate-fade-in-up delay-200 mt-4 max-w-md text-base leading-relaxed text-slate-500 sm:text-lg">
-                Flashcards covering <strong className="text-slate-700">N5 → N1</strong> with beautiful flip
+              {/* Subtitle */}
+              <p className="hero-subtitle mt-5 max-w-lg text-base leading-relaxed text-slate-500 sm:text-lg">
+                Flashcards covering <strong className="text-slate-700">N5 → N1</strong> with beautiful 3D flip
                 animations and progress tracking — in{" "}
                 <strong className="text-slate-700">6 languages</strong>.
               </p>
 
               {/* Stat pills */}
-              <div className="animate-fade-in-up delay-300 mt-8 flex flex-wrap justify-center gap-2 sm:gap-3">
+              <div className="hero-pills mt-8 flex flex-wrap justify-center gap-2 sm:gap-3">
                 {[
-                  { label: "3,000+ Kanji", color: "bg-indigo-50 text-indigo-700 border-indigo-100" },
-                  { label: "6 Languages",  color: "bg-violet-50 text-violet-700 border-violet-100" },
-                  { label: "5 JLPT Levels",color: "bg-sky-50    text-sky-700    border-sky-100"    },
-                  { label: "Offline Ready", color: "bg-emerald-50 text-emerald-700 border-emerald-100" },
-                ].map((p) => (
+                  { label: "漢 3,000+ Kanji", color: "bg-indigo-50 text-indigo-700 border-indigo-200 hover:bg-indigo-100" },
+                  { label: "🌐 6 Languages",  color: "bg-violet-50 text-violet-700 border-violet-200 hover:bg-violet-100" },
+                  { label: "📚 5 JLPT Levels", color: "bg-sky-50 text-sky-700 border-sky-200 hover:bg-sky-100" },
+                  { label: "⚡ Offline Ready", color: "bg-emerald-50 text-emerald-700 border-emerald-200 hover:bg-emerald-100" },
+                ].map((p, i) => (
                   <span
                     key={p.label}
-                    className={`rounded-full border px-3.5 py-1 text-xs font-semibold ${p.color}`}
+                    className={`hero-pill rounded-full border px-4 py-1.5 text-xs font-semibold shadow-sm transition-all duration-300 hover:-translate-y-0.5 hover:shadow-md ${p.color}`}
+                    style={{ animationDelay: `${0.5 + i * 0.1}s` }}
                   >
                     {p.label}
                   </span>
                 ))}
               </div>
 
+              {/* CTA Button */}
+              <a
+                href="#levels"
+                className="hero-cta mt-10 inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-indigo-500 via-violet-500 to-purple-600 px-8 py-3.5 text-sm font-bold text-white shadow-lg shadow-indigo-300/40 transition-all duration-300 hover:-translate-y-0.5 hover:shadow-xl hover:shadow-indigo-300/50 active:scale-95"
+              >
+                <GraduationCap className="h-4.5 w-4.5" />
+                Start Learning Now
+              </a>
+
               {/* Scroll indicator */}
-              <div className="animate-fade-in-up delay-300 mt-12 flex flex-col items-center gap-1">
-                <span className="text-[10px] font-medium uppercase tracking-widest text-slate-400">Scroll to explore</span>
-                <div className="h-8 w-5 rounded-full border-2 border-slate-300 p-0.5">
-                  <div className="mx-auto h-2 w-1 animate-bounce rounded-full bg-slate-400" />
+              <div className="hero-scroll mt-14 flex flex-col items-center gap-2">
+                <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-slate-400">Scroll to explore</span>
+                <div className="h-9 w-5 rounded-full border-2 border-slate-300 p-0.5">
+                  <div className="mx-auto h-2 w-1 animate-bounce rounded-full bg-indigo-400" />
                 </div>
               </div>
             </div>
