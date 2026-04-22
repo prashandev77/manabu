@@ -49,7 +49,7 @@ function FlipCard({
       <div className={`flip-inner h-full w-full ${isFlipped ? "is-flipped" : ""}`}>
 
         {/* FRONT – Kanji character */}
-        <div className="flip-face flex flex-col items-center justify-center border border-slate-200 bg-white shadow-lg shadow-slate-200/60">
+        <div className="flip-face flip-face-front flex flex-col items-center justify-center border border-slate-200 bg-white shadow-lg shadow-slate-200/60">
           <div className="absolute inset-0 bg-gradient-to-br from-slate-50/80 to-white" />
           <div className="relative z-10 flex flex-col items-center px-6">
             <span
